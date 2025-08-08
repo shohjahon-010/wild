@@ -67,7 +67,6 @@ function NavHeader() {
           <h1 className="display-1 fw-normal text-center">Find
             your
             Soul.</h1>
-         
         </div >
   
       </div>
