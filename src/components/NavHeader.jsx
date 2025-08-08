@@ -69,17 +69,7 @@ function NavHeader() {
             Soul.</h1>
          
         </div >
-     <div className="d-flex justify-content-end">
-        <div className=" buttton d-flex justify-content-between align-items-center  gap-4">
-        <div className="d-flex gap-3 ">
-          <p>Our Website use</p>
-          <p>cookies</p>
-        </div>
-       <div className="buuton">
-         <button className="btn">OK</button>
-       </div>
-        </div>
-     </div>
+  
       </div>
     </div>
   </div>
